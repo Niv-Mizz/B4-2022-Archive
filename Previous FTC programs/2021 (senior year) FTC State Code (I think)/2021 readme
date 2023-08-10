@@ -1,0 +1,7 @@
+2021 was the year we had the best autonomous yet.
+It was our first year using Roadrunner, and my (Matthew) last year.
+Roadrunner enabled localization and our trajectories.
+We also used some advanced roadrunner concepts, like asynchronous trajectory following, and MeepMeep.
+We also used OpenCV for our webcam detection.
+We didn't need to use roadrunner in teleop, but we tested it some.
+In our teleop we had an "endgame mode", which was helpful for all the complicated things in endgame.
